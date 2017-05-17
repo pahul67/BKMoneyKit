@@ -106,9 +106,9 @@
 		<key>shortName</key>
 		<string>discover</string>
 		<key>numberGrouping</key>
-		<string>4,4,4,4</string>
+		<string>4,4,4,4,3</string>
 		<key>length</key>
-		<string>16</string>
+		<string>16,17,18,19</string>
 	</dict>
 </array>
 </plist>
